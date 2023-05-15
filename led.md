@@ -10,3 +10,4 @@
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2011-12-11.png)
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2014-18-35.png)
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-07-34.png)
+[tinker circuit](https://www.tinkercad.com/things/4WutSqH1nOg-smashing-jofo/editel)
