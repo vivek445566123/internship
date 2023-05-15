@@ -13,6 +13,7 @@
 [tinker circuit](https://www.tinkercad.com/things/4WutSqH1nOg-smashing-jofo/editel)
 # day 4
 >MACHINE LEARNING CLASS 
+>
 1.signal detector work
 # day 5
 ### INTERFACING POTENTIOMETER USING ARDINO
