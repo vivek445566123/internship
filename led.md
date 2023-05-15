@@ -12,5 +12,5 @@
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-07-34.png)
 [tinker circuit](https://www.tinkercad.com/things/4WutSqH1nOg-smashing-jofo/editel)
 # day 5
-###INTERFACING POTENTIOMETER USING ARDINO
+### INTERFACING POTENTIOMETER USING ARDINO
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-30-15.png)
