@@ -20,4 +20,4 @@
 ![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-30-15.png)
 # day 6
 ### 7 segment display
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-16%2009-09-37.png)
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-16%2009-28-48.png)
