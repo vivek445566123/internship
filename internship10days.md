@@ -1,27 +1,3 @@
-# day 2
-### led blinking without switch
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-09%2012-12-06.png)
-### led blinking with switch
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-09%2012-32-41.png)
-# day 3
-### and gate
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2010-44-20.png)
-### ardunino blink
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2011-12-11.png)
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2014-18-35.png)
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-07-34.png)
-[tinker circuit](https://www.tinkercad.com/things/4WutSqH1nOg-smashing-jofo/editel)
-# day 4
->MACHINE LEARNING CLASS 
->
-1.signal detector work
-# day 5
-### INTERFACING POTENTIOMETER USING ARDINO
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-30-15.png)
-# day 6
-### 7 segment display
-![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-16%2009-28-48.png)
-
 # Day-1
 # 10 days internship
 ## 10 days internship
@@ -44,44 +20,26 @@ int main() {
 }
 ```
 [jomon123-123](https://www.github.com/jomon123-123) 
-# Day-2
->Creating circuit using Thinkercad
-1. creating a circuit using tinkercad simulator tool
-2. [Thinkercad Tool](https://www.tinkercad.com/)
-3. created a simple led circuit using various components
-![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%201.png)
-4.led light with switch
-![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%202.png)
-5.2 led lights with 9V battery
-![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%203.png)
-6.3 RGB led with 9V battery
-![related image ](https://github.com/kpr22102210/10-Days-internship/blob/main/img/exp%204.png)
-7.[Tinker the related circuit](https://www.tinkercad.com/things/edchxo6NsyT-led-/editel)
-
-# Day-3
-> AND GATE using Tinkercad
-1. collect the components that switch,led,resistor,powersupply,bread board ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2010-48-43.png)
-2. [tinker the circuit](https://www.tinkercad.com/things/fWawTZhFk7m-and-gate/editel)
-![related image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2010-33-40.png)
-3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
-4. make a led light citcuit using arduino![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-11%2011-00-57.png)
-5. **program**
-```
-// C++ code
-//
-void setup()
-{
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot 2023-05-11 at 11-33-09 Circuit design Tremendous Jarv Tinkercad.png
-void loop()
-{
-  digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(LED_BUILTIN, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
-}
-```
+# day 2
+### led blinking without switch
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-09%2012-12-06.png)
+### led blinking with switch
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-09%2012-32-41.png)
+# day 3
+### and gate
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2010-44-20.png)
+### ardunino blink
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2011-12-11.png)
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-11%2014-18-35.png)
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-07-34.png)
+[tinker circuit](https://www.tinkercad.com/things/4WutSqH1nOg-smashing-jofo/editel)
+# day 4
+>MACHINE LEARNING CLASS 
+>
+1.signal detector work
+# day 5
+### INTERFACING POTENTIOMETER USING ARDINO
+![no loading](https://github.com/vivek445566123/internship/blob/main/Screenshot%20from%202023-05-15%2014-30-15.png)
 6. **To select the code from the Tinkercad simulator**
 - create the circuit with the components
 - go to the cornor of the screen
